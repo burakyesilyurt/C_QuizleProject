@@ -1,3 +1,3 @@
 # C_QuizleProject
 Quiz konsol uygulaması
-Dev-C++ Kullandım
+# Dev-C++ ile Derleyin
